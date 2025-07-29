@@ -1,5 +1,6 @@
+/*These code is imported from redix ui*/
 import * as React from "react"
-import * as TooltipPrimitive from "@radix-ui/react-tooltip"
+import * as TooltipPrimitive from "@radix-ui/react-tooltip"//redixui tootlip https://www.radix-ui.com/primitives/docs/components/tooltip
 
 import { cn } from "@/lib/utils"
 
